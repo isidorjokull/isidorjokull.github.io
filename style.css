@@ -1,4 +1,17 @@
+html
+{
+  background-image: url("Images/bakgrunnur.jpg");
+  filter: contrast(200%);
+}
+
+#frame
+{
+  border: 5px solid red;
+  left: 20%;
+  right: 20%;
+}
+
 h1
 {
-  color: pink;
+  color: white;
 }
