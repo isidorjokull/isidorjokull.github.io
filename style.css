@@ -23,9 +23,15 @@ h1
   background-image: url("Images/vill.jpg");
   background-size: contain;
   width: 200%;
-  height: 150px;
+  height: 200px;
   padding-top: 0;
   margin-top: 0;
+  transition-duration: 0.1s;
+}
+
+#header:hover
+{
+  filter: contrast(50%);
 }
 
 #frame
@@ -43,4 +49,9 @@ p
   font-size: 18px;
   color: white;
   border: 80px
+}
+
+footer
+{
+  text-align: center;
 }
