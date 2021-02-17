@@ -60,6 +60,14 @@ h1
   filter: contrast(50%);
 }
 
+#frame iframe
+{
+  width: 100%;
+  min-height: 560px;
+  filter: contrast(50%);
+  object-fit: contain;
+}
+
 p
 {
   font-size: 18px;
