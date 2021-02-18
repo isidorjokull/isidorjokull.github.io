@@ -54,7 +54,8 @@ h1
   /*border: 5px solid red;*/
   margin: auto;
   margin-top: 20px;
-  width: 50%;
+  width: 75%;
+  max-width: 900px;
   padding: 10px;
   border-top: 20px;
   background-color: black;
